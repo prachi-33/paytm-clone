@@ -1,6 +1,6 @@
 const express=require("express");
 const authMiddleware=require("../middleware");
-import {Account, Acoount} from "../db";
+const {Account} =require("../db");
 const mongoose=require("mongoose");
 
 const router=express.Router();
