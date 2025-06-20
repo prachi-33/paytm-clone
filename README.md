@@ -1,12 +1,13 @@
-Simple Paytm-clone
-Upgraded the tech stack
+##Simple Paytm-clone
+>Upgraded the tech stack
 
 🛠️ Tech Stack
-Frontend: React, Tailwind
-Backend express Database: MongoDB
-Other: JWT, Zod, bcrypt, etc.
+**Frontend**: React, Tailwind
+**Backend**: express
+**Database**: MongoDB
+**Other dependencies**: JWT, Zod, bcrypt, etc.
 
-🧰 Installation
+##🧰 Installation
 git clone https://github.com/prachi-33/paytm-clone.git
 cd project
 npm install
